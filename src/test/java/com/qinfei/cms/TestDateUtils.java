@@ -7,7 +7,7 @@ import org.junit.Test;
 import com.qinfei.cms.utils.DateUtils;
 
 public class TestDateUtils {
-	@Test
+	/*@Test
 	public void testAge() {
 		
 		Date now = new Date(119,10,6);
@@ -20,7 +20,7 @@ public class TestDateUtils {
 		
 		Date future =  new Date(120,0,1);
 		int remainDay = DateUtils.getRemainDays(future);
-		System.out.println(" 璺濈鍏冩棪杩樺墿涓�?  " + remainDay);
+		System.out.println(" 鐠烘繄顬囬崗鍐╂＊鏉╂ê澧挎稉锟�?  " + remainDay);
 		
 	}
 	
@@ -29,9 +29,9 @@ public class TestDateUtils {
 	public void testIstoday() {
 		Date future =  new Date(120,0,1);
 		boolean isToday = DateUtils.isToday(future);
-		System.out.println(" 11111 鏄粖澶�? " + isToday);
+		System.out.println(" 11111 閺勵垯绮栨径锟�? " + isToday);
 		isToday = DateUtils.isToday(new Date());
-		System.out.println(" 2 =========== 鏄粖澶�? " + isToday);
+		System.out.println(" 2 =========== 閺勵垯绮栨径锟�? " + isToday);
 	}
 	
 	@Test
@@ -50,5 +50,5 @@ public class TestDateUtils {
 		System.out.println(" getEndOfMonth is " + beginOfMonth);
 		
 		
-	}
+	}*/
 }

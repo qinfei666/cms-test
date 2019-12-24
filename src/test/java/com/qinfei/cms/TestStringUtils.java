@@ -13,7 +13,7 @@ import com.qinfei.cms.utils.StringUtils;
 
 public class TestStringUtils {
 
-	static StringUtils stringUtils;
+	/*static StringUtils stringUtils;
 	
 	@Before
 	public void init() {
@@ -101,5 +101,5 @@ public class TestStringUtils {
 		Assert.assertTrue(blank==true);
 		
 	}
-	
+	*/
 }
